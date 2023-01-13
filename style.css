@@ -1,0 +1,25 @@
+html,
+body,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    margin: 10px;
+}
+
+.header-contain{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    color: blue;
+}
+
+.vector {
+    color: black;
+}
