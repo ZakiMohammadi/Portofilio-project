@@ -2,24 +2,24 @@ html,
 body,
 ::after,
 ::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .header {
-    margin: 10px;
+  margin: 10px;
 }
 
 .header-contain{
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .logo {
-    color: blue;
+  color: blue;
 }
 
 .vector {
-    color: black;
+  color: black;
 }
