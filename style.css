@@ -11,7 +11,7 @@ body,
   margin: 10px;
 }
 
-.header-contain{
+.header-contain {
   display: flex;
   justify-content: space-between;
 }
