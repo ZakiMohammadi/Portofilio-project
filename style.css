@@ -6,33 +6,47 @@ body,
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
-  background-color: #E5E5E5
+  background-color: #e5e5e5;
 }
+
 .main__section {
- background-image: url(assets/img/background/Ellipse\ 11.svg), 
- url(assets/img/background/Rectangle\ 6.svg),
- url(assets/img/background/Ellipse\ 3.svg),
- url(assets/img/background/Rectangle\ 4.svg),
- url(assets/img/background/Rectangle\ 7.svg),
- url(assets/img/background/Ellipse\ 5.svg),
- url(assets/img/background/Rectangle\ 5.svg),
- url(assets/img/background/Ellipse\ 4.svg),
- url(assets/img/background/Ellipse\ 12.svg),
- url(assets/img/background/Ellipse\ 13.svg),
- url(assets/img/background/Ellipse\ 15.svg),
- url(assets/img/background/Ellipse\ 8.svg),
- url(assets/img/background/Ellipse\ 14.png);
- background-repeat: no-repeat;
- background-position: 0 3%, 0 0, 100% 4.5%, 100% 0,
- 35% 5%, 34% 6%, 60% 66.3%, 65% 65%, 90% 48%, 87% 50%,
-  20% 64%, 60% 0%, 84% 24%;
- height: 100vh;
- width: 100%;
- position: relative;
- margin-top: -30%;
- border-bottom-left-radius: 150px;
- background-color: white;
+  background-image:
+    url(assets/img/background/Ellipse\ 11.svg),
+    url(assets/img/background/Rectangle\ 6.svg),
+    url(assets/img/background/Ellipse\ 3.svg),
+    url(assets/img/background/Rectangle\ 4.svg),
+    url(assets/img/background/Rectangle\ 7.svg),
+    url(assets/img/background/Ellipse\ 5.svg),
+    url(assets/img/background/Rectangle\ 5.svg),
+    url(assets/img/background/Ellipse\ 4.svg),
+    url(assets/img/background/Ellipse\ 12.svg),
+    url(assets/img/background/Ellipse\ 13.svg),
+    url(assets/img/background/Ellipse\ 15.svg),
+    url(assets/img/background/Ellipse\ 8.svg),
+    url(assets/img/background/Ellipse\ 14.png);
+  background-repeat: no-repeat;
+  background-position:
+    0 3%,
+    0 0,
+    100% 4.5%,
+    100% 0,
+    35% 5%,
+    34% 6%,
+    60% 66.3%,
+    65% 65%,
+    90% 48%,
+    87% 50%,
+    20% 64%,
+    60% 0%,
+    84% 24%;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  margin-top: -30%;
+  border-bottom-left-radius: 150px;
+  background-color: white;
 }
+
 .header {
   padding: 10px;
   padding-top: 20px;
@@ -55,39 +69,43 @@ body,
 }
 
 .title {
-width: 327px;
-height: 150px;
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 52px;
-display: flex;
-align-items: center;
-color: #172B4D;
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 20px;
-margin-top: 120px;
-padding-top: 97px;
+  width: 327px;
+  height: 150px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 20px;
+  margin-top: 120px;
+  padding-top: 97px;
 }
 
-.text, .connect-btn {
- font-weight: 400;
- margin: 20px;
-
+.text,
+.connect-btn {
+  font-weight: 400;
+  margin: 20px;
 }
+
 .text {
-  color:  #344563;
+  color: #344563;
   font-weight: 500;
 }
+
 .connect-btn {
-  color: #7F8CFF;
+  color: #7f8cff;
 }
+
 .media-link {
   display: flex;
   margin: 20px;
 }
-.media-link div{
+
+.media-link div {
   margin-right: 15px;
 }
