@@ -6,6 +6,7 @@ body,
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  background-color: #E5E5E5
 }
 .main__section {
  background-image: url(assets/img/background/Ellipse\ 11.svg), 
@@ -28,11 +29,15 @@ body,
  height: 100vh;
  width: 100%;
  position: relative;
- margin-top: -20%;
+ margin-top: -30%;
+ border-bottom-left-radius: 150px;
+ background-color: white;
 }
 .header {
-  margin: 10px;
-  margin-top: 20px;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  background-color: white;
 }
 
 .header-contain {
