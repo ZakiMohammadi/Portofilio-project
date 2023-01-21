@@ -25,12 +25,9 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+
+  <h3><b> PORTIFILIO PROJECT README FILE</b></h3>
 
 </div>
 
@@ -60,36 +57,40 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 PORTIFILIO <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Description of the Project
 
-**[your_project__name]** is a...
+PORTIFILIO  Project  is a simple Html and CSS File. It has microverse html and css linters incorporated in it for code uniformity and validation.
 
 ## 🛠 Built With <a name="built-with"></a>
+<ul>
+  <li>HTML</li> 
+  <li>CSS</li>
+</ul>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Description of project tech stack 
 
 <details>
-  <summary>Client</summary>
+  <summary>Mark up Language</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Styling</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html/">CSS</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Repository</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.https://github.com//">Github</a></li>
   </ul>
 </details>
 
@@ -97,11 +98,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+
+- Displays Resume
+- Background is lite gray
+- CSS and HTML linters have been incorporated
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +110,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+- [Live Demo Link](https://github.com/Newtayo/Hello-Microverse-Project/blob/main/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +120,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -127,95 +127,63 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+Login to your git hub account.
 
-```sh
- gem install rails
-```
- -->
+If you do not have create a git account using the link below.
+
+<a href ="wwww.github.com"> Create a Github Account</a>
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  <li> cd my-folder
+  <li> git clone git@github.com:myaccount/my-project.git
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+<li> Open cloned folder on VSCODE and run the following codes on the terminal window
+<li> Run npm init -y 
+<li> Run npm install --save-dev hint@7.x
+<li> Run npx hint .
+<li> Run npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+<li> Run npx stylelint "**/*.{css,scss}"
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+This project is still in development 
 
 ### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+This feature is yet to be added
 
 ### Deployment
 
-You can deploy this project using:
+This feature is yet to be added
 
-<!--
-Example:
 
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author**
 
-👤 **Author2**
+- GitHub: [@ZakiMohammadi](https://github.com/ZakiMohammadi/Hello-Microves)
+- Twitter: [@Za_Mohammadi786](https://twitter.com/Za_Mohammadi786)
+- LinkedIn: [@Zaki Mohammadi](https://www.linkedin.com/in/zaki-mohammadi-965653213/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +193,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+-  Header and Footer will be added to the index .html file
+-  The project would have a background image
+-  The project would be deployed on live server
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +213,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+> I recently started my micronaut career. I would be glad to have any resource that would easy my journey in the program
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +221,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+
+I would like to thank Microverse Team for this opportunity. I also want to acknowledge the support I receiver from my learning partner Santush. My code reviewers have also been fantastic with the feedback they have provided me with.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,13 +233,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- When I run the command npm init -y, it throws an error  
 
-  - [Answer_1]
+  - Ensure you have node.js installed on your computer
 
-- **[Question_2]**
+- Can clone repository using vscode
 
-  - [Answer_2]
+  - Ensure you are signed to your github account on vscode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,7 +247,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Santosh-Konappanavar/HelloMicroverse/commit/198ae4e2a12a11ea5ff508377a83fe7d23b453dc) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
